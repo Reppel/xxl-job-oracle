@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89d81aba-9766-41f7-a6c0-06c5ddd3a3fe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2UPcnVPI8QA7vOniqtOWIkvamE9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../xxl-job" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xxl.job.executor.service.jobhandler" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.XxlJobExecutorApplication">
+    <configuration name="FramelessApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xxl.job.executor.sample.frameless.FramelessApplication" />
+      <module name="xxl-job-executor-sample-frameless" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xxl.job.executor.sample.frameless.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XxlJobAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xxl-job-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xxl.job.admin.XxlJobAdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XxlJobExecutorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xxl-job-executor-sample-springboot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xxl.job.executor.XxlJobExecutorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FramelessApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Caps\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89d81aba-9766-41f7-a6c0-06c5ddd3a3fe" name="Default Changelist" comment="" />
+      <created>1692844822559</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692844822559</updated>
+      <workItem from="1692844825614" duration="6670000" />
+      <workItem from="1692854003852" duration="94000" />
+      <workItem from="1692854112329" duration="396000" />
+      <workItem from="1692854529924" duration="335000" />
+      <workItem from="1692855004332" duration="1067000" />
+      <workItem from="1692856106378" duration="328000" />
+      <workItem from="1692856498646" duration="1070000" />
+      <workItem from="1692857597343" duration="1298000" />
+      <workItem from="1692859262602" duration="399000" />
+    </task>
+    <task id="LOCAL-00001" summary="基于本地Oracle环境集成xxx-job">
+      <created>1692856191536</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692856191536</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="基于本地Oracle环境集成xxx-job" />
+    <option name="LAST_COMMIT_MESSAGE" value="基于本地Oracle环境集成xxx-job" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="144" y="1" key="CommitChangelistDialog2" timestamp="1692856190711">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="144" y="1" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1692856190711" />
+    <state width="456" height="456" key="DebuggerActiveHint" timestamp="1692853300547">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="456" height="456" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1692853300547" />
+    <state x="147" y="64" key="DiffContextDialog" timestamp="1692856151926">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="147" y="64" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1692856151926" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1692855299868">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1692855299868" />
+    <state x="577" y="328" key="Github.CreateGistDialog" timestamp="1692859344251">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="577" y="328" key="Github.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1692859344251" />
+    <state width="1492" height="388" key="GridCell.Tab.0.bottom" timestamp="1692859247769">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="388" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1692859247769" />
+    <state width="1492" height="388" key="GridCell.Tab.0.center" timestamp="1692859247769">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="388" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1692859247769" />
+    <state width="1492" height="388" key="GridCell.Tab.0.left" timestamp="1692859247769">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="388" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1692859247769" />
+    <state width="1492" height="388" key="GridCell.Tab.0.right" timestamp="1692859247769">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="388" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1692859247769" />
+    <state width="1492" height="388" key="GridCell.Tab.1.bottom" timestamp="1692859247770">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="388" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1692859247770" />
+    <state width="1492" height="388" key="GridCell.Tab.1.center" timestamp="1692859247770">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="388" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1692859247770" />
+    <state width="1492" height="388" key="GridCell.Tab.1.left" timestamp="1692859247770">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="388" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1692859247770" />
+    <state width="1492" height="388" key="GridCell.Tab.1.right" timestamp="1692859247770">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="388" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1692859247770" />
+    <state width="1492" height="388" key="GridCell.Tab.2.bottom" timestamp="1692859247770">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="388" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1692859247770" />
+    <state width="1492" height="388" key="GridCell.Tab.2.center" timestamp="1692859247770">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="388" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1692859247770" />
+    <state width="1492" height="388" key="GridCell.Tab.2.left" timestamp="1692859247770">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="388" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1692859247770" />
+    <state width="1492" height="388" key="GridCell.Tab.2.right" timestamp="1692859247770">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="388" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1692859247770" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1692859664264">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1692859664264" />
+    <state width="498" height="477" key="SwitcherDM" timestamp="1692857260751">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="498" height="477" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1692857260751" />
+    <state x="447" y="145" width="642" height="534" key="find.popup" timestamp="1692855822222">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="145" width="642" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1692855822222" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1692847519779">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1692847519779" />
+  </component>
+</project>
